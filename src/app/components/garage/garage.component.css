@@ -1,0 +1,29 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+
+    overflow-x: hidden;
+    padding-top: 15%;
+  }
+  
+  .left {
+    margin: 15%;
+    padding: 1%;
+    }
+  
+  .right {
+    padding: 4%;
+    right: 0;
+   
+  }
+  .btn-primary{
+  padding: 30px 30px;
+  }
+  span.tab{
+    padding: 0 80px; /* Or desired space*/
+}
+span.tab1{
+  padding: 0 40px; /* Or desired space*/
+}

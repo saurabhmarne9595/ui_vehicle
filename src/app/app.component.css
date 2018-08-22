@@ -1,0 +1,32 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    overflow-x: hidden;
+    padding-top: 0%;
+  }
+  
+  /* Control the left side */
+  .left {
+    left: 0;
+    padding: 2%;
+    /* background-color: #111; */
+  }
+  
+  /* Control the right side */
+  .right {
+      padding:4%;
+        right:0;
+    /* background-color: red; */
+  }
+  .btn-primary{
+      padding: 1.5%;
+  }
+  span.tab{
+    padding: 0 60px; /* Or desired space*/
+}
+hr {
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+  }
